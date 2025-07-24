@@ -24,7 +24,7 @@ This is a frontend-only clone of the Spotify Web Player, created using pure HTML
  
 
          ✨ What's Missing
-<br>
+
 
                This clone is static. It does not include:
 
@@ -38,7 +38,7 @@ This is a frontend-only clone of the Spotify Web Player, created using pure HTML
 
 
            🚀 Getting Started
-<br>
+
 
               To run this project on your local machine:
 
@@ -55,10 +55,8 @@ This is a frontend-only clone of the Spotify Web Player, created using pure HTML
 
 
 
-.
-
           🎯 Purpose
-<br>
+
 
              -Practice building responsive and modern UIs
 
