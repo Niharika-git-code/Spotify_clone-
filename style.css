@@ -151,10 +151,10 @@ border-radius: 1rem;
 .badgecolor{
     background-color: #000;
     color: white;
-    /* justify-content: center;   */
-    padding: 0 1rem  0 1rem ;
-    width: 15%;
+    justify-content: center;  
+    align-items: center;  
     justify-content: center;
+    height: 2rem;
 }
 .circle{
     /* margin-top: 0.5rem; */
@@ -192,6 +192,7 @@ z-index: 10;
     background-color: #121212;
     margin: 0.75rem;
     padding: 0.75rem 0 0.75rem 0;
+    margin-bottom: 1rem;
     
 }
 .nav-item{
