@@ -19,6 +19,7 @@ This is a frontend-only clone of the Spotify Web Player, created using pure HTML
 -Dark theme styling inspired by Spotify
 
  -Pure HTML & CSS — no frameworks or JavaScript
+ 
 
 ✨ What's Missing
 <br>
@@ -39,16 +40,16 @@ This clone is static. It does not include:
 
 To run this project on your local machine:
 
-Clone the repository:
+-Clone the repository:
 
 bash -git clone https://github.com/yourusername/spotify-clone.git
 
-Open the folder:
+-Open the folder:
 
 bash -cd spotify-clone
 
 
-Open index.html in your browser.
+-Open index.html in your browser.
 
 
 
@@ -56,11 +57,12 @@ Open index.html in your browser.
 
 🎯 Purpose
 <br>
-Practice building responsive and modern UIs
 
-Clone a popular app design for frontend development skill-building
+-Practice building responsive and modern UIs
 
-Use in portfolios, beginner web dev projects, or design challenges
+-Clone a popular app design for frontend development skill-building
+
+-Use in portfolios, beginner web dev projects, or design challenges
 
 
 
