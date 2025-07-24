@@ -403,9 +403,10 @@ display: flex;
 }
 .pic1{
     padding: 0.75rem 0 0.75rem 0;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.9rem;
+    border-radius: 15px;
 }
-.p1{
+/* .p1{
     margin-bottom: 2.5rem;
     margin-left: .75rem;
 }
@@ -413,4 +414,26 @@ display: flex;
     margin-top: 1rem;
     margin-right: 2rem;
     font-size: 0.50rem;
+} */
+.song{
+    flex: 1;
+}
+.p1{
+    margin-left: 1rem;
+    font-size: 18px;
+    font-weight: bold;
+    
+    margin-bottom: 0.75rem;
+    margin-top: 0.5rem;
+    /* position: fixed; */
+
+}
+.p2{
+    font-size: 14px;
+    margin-left: 1rem;
+    color: #b3b3b3;
+    margin-bottom: 0.75rem;
+    margin-top: -1.5rem;
+    /* padding: 0.75rem 0.75rem  0.75rem 0.75rem; */
+    /* line-height: 0.5rem; */
 }
