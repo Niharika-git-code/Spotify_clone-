@@ -42,16 +42,16 @@ This is a frontend-only clone of the Spotify Web Player, created using pure HTML
 
               To run this project on your local machine:
 
-              -Clone the repository:
+              1.Clone the repository:
 
                  bash -git clone https://github.com/yourusername/spotify-clone.git
 
-              -Open the folder:
+              2.Open the folder:
 
                  bash -cd spotify-clone
 
 
-              -Open index.html in your browser.
+              3.Open index.html in your browser.
 
 
 
