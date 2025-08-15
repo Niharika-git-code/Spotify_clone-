@@ -45,7 +45,7 @@ https://github.com/Niharika-git-code/Spotify_clone-.git
      bash -cd spotify-clone
 ```
 
- - Open spotify.html in your browser.
+ - Open index.html in your browser.
 
 
 ## 🎯 Purpose
