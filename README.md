@@ -38,8 +38,7 @@ This is a frontend-only clone of the Spotify Web Player, created using pure HTML
 
 ```
 bash
-  git clone https://github.com/yourusername/spotify-clone.git
-
+https://github.com/Niharika-git-code/Spotify_clone-.git
 ```
  - Open the folder:
   ```
